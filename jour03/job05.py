@@ -1,4 +1,4 @@
-def nombres_premiers():
+ def nombres_premiers():
     for nombres_premiers in range(2, 1000 + 1):
         if nombres_premiers > 1:
             for i in range(2, nombres_premiers):
